@@ -1,0 +1,3 @@
+#if ($value)
+<customfieldvalue>${urlPrefix}$value.toString()</customfieldvalue>
+#end
