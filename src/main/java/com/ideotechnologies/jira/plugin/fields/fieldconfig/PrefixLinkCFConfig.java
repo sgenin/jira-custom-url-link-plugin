@@ -15,7 +15,6 @@ public class PrefixLinkCFConfig implements FieldConfigItemType {
 
 	@Override
 	public Object getConfigurationObject(Issue arg0, FieldConfig arg1) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
@@ -31,7 +30,6 @@ public class PrefixLinkCFConfig implements FieldConfigItemType {
 
 	@Override
 	public String getObjectKey() {
-		// TODO Auto-generated method stub
 		return "input-options-prefix-lin";
 	}
 
